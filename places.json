@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/tangadan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/tangadan.jpeg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
