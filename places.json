@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Pindangan Ruins",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Christ The Redeemer",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Tapuakan River",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Agoo Museo",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "name": "Bohemian and Chic in Paris",
+    "name": "John Christian Milanes",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
