@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Immuki Island",
-    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/agoomuseo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/baluarte.jpg",
     "price": 120,
     "priceCurrency": "Php",
     "lat": 16.8029,
