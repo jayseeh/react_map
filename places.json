@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Immuki Island",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/master/images/flat1.jpg",
     "price": 120,
     "priceCurrency": "Php",
     "lat": 16.8029,
