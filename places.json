@@ -13,9 +13,9 @@
     "name": "Anito Falls",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "priceCurrency": "Php",
+    "lat": 16.7379,
+    "lng": 120.4546
   },
   {
     "id": 3,
