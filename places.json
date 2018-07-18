@@ -37,21 +37,21 @@
   },
   {
     "id": 5,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Macho Temple",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 135,
     "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.6212,
+    "lng": 120.3175
   },
   {
     "id": 6,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Occalong Falls",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.7995,
+    "lng": 120.3574
   },
   {
     "id": 7,
