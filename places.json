@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Immuki Island",
-    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/immuki.jpg",
     "price": 120,
     "priceCurrency": "Php",
     "lat": 16.8029,
@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/baluarte.jpg",
+    "name": "Anito Falls",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 200,
     "priceCurrency": "EUR",
     "lat": 48.885707,
@@ -19,8 +19,8 @@
   },
   {
     "id": 3,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "Botanical Garden",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 48.885312,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 115,
     "priceCurrency": "EUR",
     "lat": 48.881840,
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 135,
     "priceCurrency": "EUR",
     "lat": 48.888839,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
