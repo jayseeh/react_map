@@ -28,12 +28,12 @@
   },
   {
     "id": 4,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Light House",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 115,
     "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.6149,
+    "lng": 120.2808
   },
   {
     "id": 5,
