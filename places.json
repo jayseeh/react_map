@@ -55,12 +55,12 @@
   },
   {
     "id": 7,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Pagoda",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.6142588,
+    "lng": 120.31923469999992
   },
   {
     "id": 8,
