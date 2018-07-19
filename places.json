@@ -121,6 +121,46 @@
   },
   {
     "id": 13,
+    "name": "Kamay na Bato Art Gallery",
+    "municipal": "Luna",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/kamay.png",
+    "price": "20",
+    "priceCurrency": "Php",
+    "lat": 16.847231,
+    "lng": 120.351706
+  },
+  {
+    "id": 14,
+    "name": "Halo-Halo De Iloko",
+    "municipal": "San Fernando City",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/halohalo.png",
+    "price": "0",
+    "priceCurrency": "Php",
+    "lat": 16.617253,
+    "lng": 120.319793
+  },
+  {
+    "id": 15,
+    "name": "Lomboy Grapes Farm",
+    "municipal": "Bauang",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/lomboy.png",
+    "price": "0",
+    "priceCurrency": "Php",
+    "lat": 16.463343,
+    "lng": 120.335634
+  },
+  {
+    "id": 16,
+    "name": "Eagle of the North",
+    "municipal": "Agoo",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/eagle.png",
+    "price": "0",
+    "priceCurrency": "Php",
+    "lat": 16.329818,
+    "lng": 120.368056
+  },
+  {
+    "id": 17,
     "name": "John Christian Milanes",
     "municipal": "Balaoan",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/balay.png",
