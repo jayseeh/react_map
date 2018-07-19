@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Immuki Island",
+    "municipal": "Balaoan",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/immuki.jpg",
     "price": 20,
     "priceCurrency": "Php",
@@ -11,6 +12,7 @@
   {
     "id": 2,
     "name": "Anito Falls",
+    "municipal": "Santol",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
     "price": 0,
     "priceCurrency": "Php",
@@ -20,6 +22,7 @@
   {
     "id": 3,
     "name": "Botanical Garden",
+    "municipal": "San Fernando City",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/botanical.jpg",
     "price": 0,
     "priceCurrency": "Php",
@@ -29,6 +32,7 @@
   {
     "id": 4,
     "name": "Light House",
+    "municipal": "San Fernando City",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/lighthouse.jpg",
     "price": 0,
     "priceCurrency": "Php",
@@ -38,6 +42,7 @@
   {
     "id": 5,
     "name": "Macho Temple",
+    "municipal": "San Fernando City",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/machotemple.JPG",
     "price": 0,
     "priceCurrency": "Php",
@@ -47,6 +52,7 @@
   {
     "id": 6,
     "name": "Occalong Falls",
+    "municipal": "Luna",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/occalong.jpg",
     "price": 20,
     "priceCurrency": "Php",
@@ -56,6 +62,7 @@
   {
     "id": 7,
     "name": "Pagoda",
+    "municipal": "San Fernando City",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/pagoda.jpg",
     "price": 0,
     "priceCurrency": "Php",
@@ -65,6 +72,7 @@
   {
     "id": 8,
     "name": "Pindangan Ruins",
+    "municipal": "San Fernando City",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/pindangan.jpg",
     "price": 0,
     "priceCurrency": "Php",
@@ -74,6 +82,7 @@
   {
     "id": 9,
     "name": "Christ The Redeemer",
+    "municipal": "San Fernando City",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/redeemer.jpg",
     "price": 0,
     "priceCurrency": "Php",
@@ -83,6 +92,7 @@
   {
     "id": 10,
     "name": "Tangadan Falls",
+    "municipal": "San Gabriel",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/tangadan.jpeg",
     "price": 50,
     "priceCurrency": "Php",
@@ -92,6 +102,7 @@
   {
     "id": 11,
     "name": "Tapuakan River",
+    "municipal": "Pugo",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/tapuakan.jpg",
     "price": 0,
     "priceCurrency": "Php",
@@ -101,6 +112,7 @@
   {
     "id": 12,
     "name": "Agoo Museo",
+    "municipal": "Agoo",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/agoomuseo.JPG",
     "price": 0,
     "priceCurrency": "Php",
@@ -110,6 +122,7 @@
   {
     "id": 13,
     "name": "John Christian Milanes",
+    "municipal": "Balaoan",
     "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/balay.png",
     "price": 0,
     "priceCurrency": "Php",
